@@ -1,0 +1,8 @@
+/.coverage
+/build/
+/cover/
+/coverage.xml
+/data/
+/dist/
+/*.egg-info
+*.pyc

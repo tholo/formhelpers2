@@ -1,0 +1,21 @@
+body { background-color: #fff; color: #333; }
+
+body, p {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size:   12px;
+  line-height: 18px;
+}
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+  line-height: 13px;
+}
+
+a { color: #000; }
+a:visited { color: #666; }
+a:hover { color: #fff; background-color:#000; }
+
+.error-message{
+    color:red;
+}
